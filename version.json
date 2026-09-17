@@ -1,5 +1,5 @@
 {
-  "version": "1.8.0",
-  "notlar": "KRITIK: Lisans sistemi eklendi. Bu surumu yuklemeden ONCE kendi lisans anahtarinizi hazir tutun.",
-  "htmlUrl": "https://raw.githubusercontent.com/odicyazilim/cari_takip_guncellemeler/main/CARI_TAKIP_v1.8.0-lisansli.html"
+  "version": "2.0.0",
+  "notlar": "BUYUK GUNCELLEME: Lisans sunucusu uzerinden guvenli guncelleme sistemine geciliyor. Bu son kez genel depo uzerinden dagitiliyor.",
+  "htmlUrl": "https://raw.githubusercontent.com/odicyazilim/cari_takip_guncellemeler/main/CARI_TAKIP_v2.0.0.html"
 }
